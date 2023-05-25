@@ -1,4 +1,4 @@
-package course
+package concepts
 
 class Person(var name: String) {
 
