@@ -7,16 +7,16 @@ fun main(args: Array<String>) {
 
     println("hello world")
     //var mutable
-    val kevin = Person("Kevin")//final immutable
-    println("name is: ${kevin.name}")
+    //val kevin = Person("Kevin")//final immutable
+    //println("name is: ${kevin.name}")
 
-    kevin.name = "John"
+    //kevin.name = "John"
 
-    println("name is: ${kevin.name}")
+    //println("name is: ${kevin.name}")
 
-    kevin.display()
+    //kevin.display()
 
-    kevin.lambda(::printName)
+    //kevin.lambda(::printName)
 
     //if
     var answer = "true"
