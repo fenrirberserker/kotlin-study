@@ -1,0 +1,11 @@
+# Ignore IDE configuration files (for IntelliJ IDEA or Android Studio)
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/misc.xml
+
+
+# Ignore Kotlin/Java build output
+out/
+bin/
